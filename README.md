@@ -5,7 +5,13 @@
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me Discord(potatoguy47#2642)
-- 
+<p align="left">
+  <a href="mailto:miguel_barros@id.uff.br" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white&link=julio_souza@id.uff.br" /></a>
+
+  <a href="https://www.linkedin.com/in/miguel-barros-de-azevedo-539157172/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliocarvalhos" /></a>
+
 ## ⭐ Stats:
 <center>
 <table>
