@@ -2,7 +2,7 @@
 
 ## 🛠  About me:
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning MatLab
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me Discord(potatoguy47#2642)
 <p align="left">
