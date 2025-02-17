@@ -1,5 +1,5 @@
 # Hello there <img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif?1570211625" width="30"/> , I'm Miguel!
-
+![](https://komarev.com/ghpvc/?username=Miuguel&color=brightgreen)
 ## 🛠  About me:
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning MatLab
