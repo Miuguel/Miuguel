@@ -1,7 +1,7 @@
 # Hello there <img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif?1570211625" width="30"/> , I'm Miguel!
 ![](https://komarev.com/ghpvc/?username=Miuguel&color=brightgreen)
 ## 🛠  About me:
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Computer Graphics/Computer Vision
 - 🌱 I’m currently learning MatLab
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me Discord(potatoguy47#2642)
